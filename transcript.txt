@@ -1,0 +1,21 @@
+Greetings everyone my name is Abdulla Farahat AlBunoodha and I'll presenting to you about my Portfolio.
+
+The problem statement was to make my own website and set an simple example so that anyone to make my
+
+own unique ideas. That way it will increase the individual's chance to get hired by a company.
+
+My objectives are to create 4 webpages and they are Home, Resume, Portfolio, and Contact.
+
+The development process has to include a logo of me but I consider
+
+it optional really and I don't have to include a photo about myself. You can actually make my own logo.
+
+A navigation bar to choose one of the webpages.
+
+A home webpage with a greetings message.
+
+Resume section contains a profile about myself with skills and objectives.
+
+A portfolio illustrates my certification, work sample and awards.
+
+Finally a contact section that has input form to leave a feedback about my work.

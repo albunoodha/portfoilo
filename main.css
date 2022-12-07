@@ -1,0 +1,131 @@
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background-color: #f7f6e7;
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+
+ul, ol, dl {
+	padding: 0;
+	margin: 0;
+}
+/* Titles */
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;
+	padding-right: 15px;
+	padding-left: 15px;
+	color: black;
+
+}
+a img {
+	border: none;
+}
+
+
+a:link {
+	color: black;
+	text-decoration: underline;
+}
+a:visited {
+	color: #5c5757;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus {
+	text-decoration: none;
+}
+
+/* Table Profile Resume */
+#profile {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 95%;
+}
+
+#profile td, #profile th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#profile tr:nth-child(even){background-color: #e7e6e1;}
+
+#profile tr:hover {background-color: #e7e6e1;}
+
+#profile th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #e7e6e1;
+  color: white;
+}
+
+/* container section with light grey color */
+.container {
+	width: 960px;
+	background-color: #f7f6e7;
+	margin: 0 auto;
+}
+
+
+.header {
+	background-color: #e7e6e1;
+	border-bottom-width: 4px;
+	border-bottom-style: solid;
+	border-bottom-color:black;
+	color: black;
+
+}
+
+/* Navigation sidebar menu*/
+.sidebar1 {
+	float: left;
+	width: 180px;
+	background-color: #c1c0b9;
+	border-right-width:3 px;
+	border-right-color:black;
+}
+
+.content {
+	padding: 20px 0;
+	width: 700px;
+	float: left;
+}
+
+/* bullet points of the content   */
+.content ul, .content ol {
+	padding: 0 15px 15px 40px;
+}
+
+/* the navigation of side bar  */
+ul.nav {
+	list-style: none;
+	border-top: 1px solid #666;
+	margin-bottom: 15px;
+}
+ul.nav li {
+	border-bottom: 1px solid white;
+}
+ul.nav a, ul.nav a:visited { /
+	padding: 5px 5px 5px 15px;
+	display: block;
+	width: 160px;
+	text-decoration: none;
+	background-color: #e7e6e1;
+}
+ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
+	background-color: #e7e6e1;
+	color: black;
+}
+
+/* footer section  */
+.footer {
+	padding: 10px 0;
+	background-color: #e7e6e1;
+	position: relative;
+	clear: both;
+	font-size: 100%;
+	color: black;
+	text-align: center;
+	border-top-width: 4px;
+	border-top-style: solid;
+}
